@@ -24,7 +24,7 @@ const ThankYou = () => {
                   src={logoImg}
                   width={150}
                   height={150}
-                  className="h-[3rem] md:h-[3.75rem] scale-125"
+                  className="h-[3rem] md:h-[4.5rem] object-contain scale-125"
                   alt="logo"
                 />
               </Link>

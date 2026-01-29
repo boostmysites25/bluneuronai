@@ -7,9 +7,9 @@ import Services from "./pages/Services";
 export { logoImg };
 
 export const companyDetails = {
-  phone: "+1 555-0123", // Placeholder, updated from "0000000000"
-  address: "Innovation Hub, Tech City, USA", // Generic placeholder
-  email: "info@bluneuronai.com",
+  phone: "+91 9511812998",
+  address: "Laxmi Nagar, Dhanori, Pune - 411015",
+  email: "info@abc.com",
   linkedin: "",
   instagram: "",
   twitter: "",
