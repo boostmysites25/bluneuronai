@@ -7,12 +7,12 @@ import Services from "./pages/Services";
 export { logoImg };
 
 export const companyDetails = {
-  phone: "+91 9511812998",
+  phone: "+91 9322872785",
   address: "Laxmi Nagar, Dhanori, Pune - 411015",
-  email: "info@abc.com",
-  linkedin: "",
-  instagram: "",
-  twitter: "",
+  email: "bluneuronai@gmail.com",
+  linkedin: "https://www.linkedin.com/company/111752701/admin/dashboard/",
+  instagram: "https://www.instagram.com/bluneuron_ai?igsh=dWpnb2U1NWRzMHNm",
+  facebook: "https://www.facebook.com/profile.php?id=61588352126148",
 };
 
 export const routes = [
